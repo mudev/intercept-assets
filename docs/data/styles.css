@@ -8,6 +8,12 @@
   line-height:normal;
 }
 .box_1 {
+  font-family:'Copperplate';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#105978;
+  text-align:left;
 }
 .backgr {
 }
@@ -68,6 +74,10 @@
 }
 .line {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
 .droplist {
   color:#000000;
   text-align:left;
@@ -76,7 +86,11 @@
   color:#000000;
   text-align:left;
 }
+.flow_shape {
+}
 .table_cell {
+}
+.connector {
 }
 .box_4 {
   font-family:'HelveticaNeue', 'Helvetica Neue';
@@ -87,4 +101,14 @@
   text-align:left;
 }
 .hotspot {
+}
+.acheader {
+  font-family:'TitilliumWeb-Regular', 'Titillium Web';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#FFFFFF;
+  text-align:left;
+}
+.icon {
 }
